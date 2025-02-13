@@ -15,6 +15,14 @@
 
 ---
 
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-github&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/sujal_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sujal_here" height="30" width="40" /></a>
