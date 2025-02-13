@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-github&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-github" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/sujal_here" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sujal_here?logo=twitter&style=for-the-badge" alt="https://x.com/sujal_here" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/sujal_here" target="blank"><img src="http://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg://x.com/sujal_here?logo=twitter&style=for-the-badge" alt="https://x.com/sujal_here" /></a> </p>
 
 - 🌱 I’m currently learning **React, Nextjs, Machine Learning, AI**
 
