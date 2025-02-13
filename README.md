@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-github&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-github" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/sujal_here" target="blank"><img src="http://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg://x.com/sujal_here?logo=twitter&style=for-the-badge" alt="https://x.com/sujal_here" /></a> </p>
-
 ### 🚀 About Me
 - 🔭 I’m currently working on **MunchMate** and a **Metaverse Game Project**.
 - 💻 Proficient in **C++, Python, JavaScript**.
