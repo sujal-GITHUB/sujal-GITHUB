@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/sujal_here" target="blank"><img src="http://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg://x.com/sujal_here?logo=twitter&style=for-the-badge" alt="https://x.com/sujal_here" /></a> </p>
 
-- 🌱 I’m currently learning **React, Nextjs, Machine Learning, AI**
-
-- 💬 Ask me about **MERN, Machine Learning, Data Analysis**
-
-- 📫 How to reach me **sujal21102004@gmail.com**
+### 🚀 About Me
+- 🔭 I’m currently working on **MunchMate** and a **Metaverse Game Project**.
+- 💻 Proficient in **C++, Python, JavaScript**.
+- 🌐 Skilled in **React, Next.js, TailwindCSS, Redux, Express.js**.
+- ☁️ Exploring **AWS** for cloud deployments.
+- 🎯 Interests: **Software Development, Cloud Computing, Blockchain**.
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sujal-github/)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
