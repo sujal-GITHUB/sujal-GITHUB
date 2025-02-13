@@ -38,12 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-github&show_icons=true&locale=en&layout=compact" alt="sujal-github" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&theme=radical" alt="GitHub Streak" />
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en" alt="sujal-github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&" alt="sujal-github" /></p>
