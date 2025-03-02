@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+  ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -36,15 +36,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-github&show_icons=true&locale=en&layout=compact" alt="sujal-github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en" alt="sujal-github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&" alt="sujal-github" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-github&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-github&theme=radical" alt="Profile Details" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujal-github&theme=radical" alt="Most Used Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujal-github&theme=radical" alt="Repos Per Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-github&theme=radical" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-github&theme=radical&utcOffset=5" alt="Most Active Time" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-github&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
 
