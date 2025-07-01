@@ -36,11 +36,42 @@
 
 ---
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </p>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-github&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&theme=radical" alt="GitHub Streak" /> </p> 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-github&theme=radical" alt="Profile Details" /> </p> 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujal-github&theme=radical" alt="Most Used Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujal-github&theme=radical" alt="Repos Per Language" /> </p> 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-github&theme=radical" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-github&theme=radical&utcOffset=5" alt="Most Active Time" /> </p> 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-github&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-github&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔍 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-github&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujal-github&theme=radical" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujal-github&theme=radical" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-github&theme=radical" alt="GitHub Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-github&theme=radical&utcOffset=5" alt="Most Productive Time" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-github&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
