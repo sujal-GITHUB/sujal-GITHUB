@@ -1,21 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi! [cite_start]👋, I'm Sujal Kumar [cite: 3]</h1>
+<h1 align="center">Hi! 👋, I'm Sujal Kumar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-github" /> </p>
 
-[cite_start]A motivated Information Technology undergraduate at NIT Jalandhar [cite: 5, 6] [cite_start]with a strong foundation in competitive programming [cite: 39] and full-stack development. I am passionate about building scalable web applications, optimizing performance, and leveraging cloud technologies. [cite_start]I have practical experience in developing feature-rich applications with modern frameworks [cite: 16, 22] [cite_start]and a keen interest in DevOps, AI/ML, and cloud computing[cite: 8, 12, 31].
+A motivated Information Technology undergraduate at NIT Jalandhar with a strong foundation in competitive programming and full-stack development. I am passionate about building scalable web applications, optimizing performance, and leveraging cloud technologies. I have practical experience in developing feature-rich applications with modern frameworks and a keen interest in DevOps, AI/ML, and cloud computing.
 
-### About Me
-- [cite_start] I’m currently pursuing a B.Tech in **Information Technology** from Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (2022-2026)[cite: 5, 6, 7].
-- [cite_start] **Core Languages**: $C++$, JavaScript, TypeScript, Python, SQL[cite: 9].
-- [cite_start] **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, FastAPI, Tailwind CSS, Redux[cite: 10].
-- [cite_start] **DevOps & Cloud**: Docker, Kubernetes, Ansible, CI/CD, AWS (EC2, S3, Lambda), Terraform, Jenkins[cite: 12].
-- [cite_start] **Interests**: Full-Stack Development, AI/Machine Learning, DevOps, and Competitive Programming[cite: 8, 12, 39].
-- [cite_start] **Reach me at**: [sujal21102004@gmail.com](mailto:sujal21102004@gmail.com) [cite: 1] [cite_start]or check out my [Portfolio](https://sujal.works)[cite: 1].
+###  About Me
+-  I’m currently pursuing a B.Tech in **Information Technology** from Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (2022-2026).
+-  **Core Languages**: C++, JavaScript, TypeScript, Python, SQL.
+-  **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, FastAPI, Tailwind CSS, Redux.
+-  **DevOps & Cloud**: Docker, Kubernetes, Ansible, CI/CD, AWS (EC2, S3, Lambda), Terraform, Jenkins.
+-  **Interests**: Full-Stack Development, AI/Machine Learning, DevOps, and Competitive Programming.
+-  **Reach me at**: [sujal21102004@gmail.com](mailto:sujal21102004@gmail.com) or check out my [Portfolio](https://sujal.works).
 
 ---
 
-### Connect with me
+### 🌐 Connect with me
 <p align="left">
 <a href="https://github.com/sujal-GITHUB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sujal-GITHUB" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal-kumar-38544b229" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 
 ---
 
-### Languages and Tools
+###  Languages and Tools
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -54,16 +54,14 @@
 
 ---
 
-### GitHub Trophies
-*(This section updates automatically)*
+###  GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sujal-github&theme=onedark&column=7&no-frame=true&margin-w=10" alt="GitHub Trophy" />
 </p>
 
 ---
 
-### GitHub Stats
-*(These sections update automatically)*
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
@@ -79,8 +77,7 @@
 
 ---
 
-### Recent GitHub Activity
-*(This section updates automatically)*
+###  Recent GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-github&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
