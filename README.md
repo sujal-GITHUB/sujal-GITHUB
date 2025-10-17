@@ -86,9 +86,7 @@
 ---
 
 ### Recent GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-github&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=merko)](https://github.com/sujal-GITHUB)
 
 ---
 
