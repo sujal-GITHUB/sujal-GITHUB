@@ -75,13 +75,17 @@
 ---
 
 ### GitHub Stats
+<div align='center'>
 ![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</div>
 
 ---
 
 ### Github Streak
+<div align='center'>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+</div>
 
 ---
 
