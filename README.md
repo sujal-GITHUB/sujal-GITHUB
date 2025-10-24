@@ -75,13 +75,8 @@
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-github&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-github&theme=radical" alt="GitHub Streak" />
-</p>
+![](https://raw.githubusercontent.com/sujal-GITUB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
