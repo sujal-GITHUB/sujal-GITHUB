@@ -75,15 +75,16 @@
 ---
 
 ### GitHub Stats
-![](https://raw.githubusercontent.com/sujal-GITUB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
 ---
 
 ### Recent GitHub Activity
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=merko)](https://github.com/sujal-GITHUB)
+[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=github-compact)](https://github.com/sujal-GITHUB)
 
 ---
+
 
 <div align="center">
   <picture>
