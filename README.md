@@ -29,11 +29,11 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://github.com/sujal-GITHUB" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-  <a href="https://sujal.works" target="blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/sujal_kumar1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://x.com/sujal_here" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://github.com/sujal-GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+  <a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/sujal_kumar1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://x.com/sujal_here" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -74,27 +74,24 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Streak
 <div align='center'>
-![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</div>
-
----
-
-### Github Streak
-<div align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  <img src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  <br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </div>
 
 ---
 
 ### Recent GitHub Activity
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=github-compact)](https://github.com/sujal-GITHUB)
+<div align="center">
+  [![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=github-compact)](https://github.com/sujal-GITHUB)
+</div>
 
 ---
 
-
+### GitHub Contributions
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/sujal-GITHUB?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
