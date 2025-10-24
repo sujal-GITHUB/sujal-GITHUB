@@ -80,6 +80,11 @@
 
 ---
 
+### Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+---
+
 ### Recent GitHub Activity
 [![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=github-compact)](https://github.com/sujal-GITHUB)
 
