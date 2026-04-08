@@ -69,7 +69,7 @@
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujal-github&theme=onedark&column=7&no-frame=true&margin-w=10" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal-GITHUB&theme=onedark&column=7&no-frame=true&margin-w=10" alt="GitHub Trophy" />
 </p>
 
 ---
