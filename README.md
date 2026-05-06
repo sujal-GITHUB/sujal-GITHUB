@@ -122,18 +122,6 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/languages.svg#gh-dark-mode-only"
-  alt="Top Languages"
-/>
-
-<br>
-
-<img
   src="https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true"
   alt="GitHub Streak"
 />
