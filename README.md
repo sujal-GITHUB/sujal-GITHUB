@@ -23,97 +23,71 @@
 
 ---
 
-# 💫 About Me
+### About Me
 
-- 🎓 Pursuing B.Tech in **Information Technology** from **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar** (2022–2026)
-- 💻 Passionate about **Full-Stack Development**, **AI/ML**, **DevOps**, and **Competitive Programming**
-- 🚀 Building scalable web apps and AI-powered systems
-- ⚡ Strong interest in system design, cloud infrastructure, and performance optimization
+- Pursuing B.Tech in **Information Technology** from **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar** (2022–2026)
+- Passionate about **Full-Stack Development**, **AI/ML**, **DevOps**, and **Competitive Programming**
+- Building scalable web apps and AI-powered systems
+- Strong interest in system design, cloud infrastructure, and performance optimization
 
-### 🧠 Core Languages
+#### Core Languages
 `C++` `JavaScript` `TypeScript` `Python` `SQL`
 
-### ⚙️ Frameworks & Libraries
+#### Frameworks & Libraries
 `React.js` `Next.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS` `Redux`
 
-### ☁️ DevOps & Cloud
+#### DevOps & Cloud
 `Docker` `Kubernetes` `AWS` `Terraform` `CI/CD` `Jenkins` `Ansible`
 
-### 📫 Reach Me
+#### Reach Me
 - Email: **sujal21102004@gmail.com**
 - Portfolio: **https://sujal.works**
 
 ---
 
-# 🌐 Connect With Me
+### Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; align-items:center;">
   <a href="https://github.com/sujal-GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/sujal_kumar1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/sujal_here" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" width="40" height="40"/></a>
 </p>
 
 ---
 
-# 🛠️ Languages and Tools
+### Languages and Tools
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45"/>
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img
@@ -124,7 +98,7 @@
 
 ---
 
-# 📊 GitHub Stats & Streak
+### GitHub Stats & Streak
 
 <div align="center">
 
@@ -149,7 +123,7 @@
 
 ---
 
-# 📈 Recent GitHub Activity
+### Recent GitHub Activity
 
 <p align="center">
   <img
@@ -160,7 +134,7 @@
 
 ---
 
-# 🔥 GitHub Contributions
+### GitHub Contributions
 
 <div align="center">
 
