@@ -27,14 +27,23 @@
 
 - Pursuing B.Tech in **Information Technology** from **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar** (2022–2026)
 - Passionate about **Full-Stack Development**, **AI/ML**, **DevOps**, and **Competitive Programming**
-- Building scalable web apps and AI-powered systems
+- Ex-Intern at **Samsung R&D Institute India** — built ML pipelines and an AI Avatar for Samsung's smart device ecosystem
+- Building scalable web apps, agentic AI systems, and developer tooling
 - Strong interest in system design, cloud infrastructure, and performance optimization
+- **Knight on LeetCode** (1900+) · **Specialist on Codeforces** (1400+) · 1000+ problems solved
+- **2nd Runner-up** at HackTU 6.0 among 200+ teams
 
 #### Core Languages
-`C++` `JavaScript` `TypeScript` `Python` `SQL` `Rust`
+`C` `C++` `C#` `JavaScript` `TypeScript` `Python` `SQL` `Rust`
 
 #### Frameworks & Libraries
-`React.js` `Next.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS` `Redux`
+`React.js` `Next.js` `Node.js` `Express.js` `FastAPI` `Flask` `Tailwind CSS` `Redux` `Langchain` `Langgraph`
+
+#### Databases
+`MySQL` `MongoDB` `PostgreSQL` `Redis` `DynamoDB` `Supabase` `ChromaDB`
+
+#### Tools & Platforms
+`Git` `Docker` `Figma` `Postman` `Prisma` `Jest` `Streamlit` `n8n` `Notion` `Anaconda`
 
 #### DevOps & Cloud
 `Docker` `Kubernetes` `AWS` `Terraform` `CI/CD` `Jenkins` `Ansible`
@@ -54,7 +63,7 @@
 <td align="center"><a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://leetcode.com/u/sujal_kumar1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://x.com/sujal_here" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/></a></td>
-<td align="center"><a href="https://sujal.works" target="_blank"><img src="https://www.sujal.works/killua.png" width="40" height="40"/></a></td>
+<td align="center"><a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" width="40" height="40"/></a></td>
 </tr>
 </table>
 </div>
@@ -111,6 +120,18 @@
 ### GitHub Stats & Streak
 
 <div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/sujal-GITHUB/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+  alt="Top Languages"
+/>
+
+<br>
 
 <img
   src="https://streak-stats.demolab.com?user=sujal-GITHUB&theme=transparent&hide_border=true&short_numbers=true"
