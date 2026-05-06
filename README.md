@@ -31,7 +31,7 @@
 - Strong interest in system design, cloud infrastructure, and performance optimization
 
 #### Core Languages
-`C++` `JavaScript` `TypeScript` `Python` `SQL`
+`C++` `JavaScript` `TypeScript` `Python` `SQL` `Rust`
 
 #### Frameworks & Libraries
 `React.js` `Next.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS` `Redux`
@@ -54,7 +54,7 @@
 <td align="center"><a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://leetcode.com/u/sujal_kumar1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://x.com/sujal_here" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/></a></td>
-<td align="center"><a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" width="40" height="40"/></a></td>
+<td align="center"><a href="https://sujal.works" target="_blank"><img src="https://www.sujal.works/killua.png" width="40" height="40"/></a></td>
 </tr>
 </table>
 </div>
